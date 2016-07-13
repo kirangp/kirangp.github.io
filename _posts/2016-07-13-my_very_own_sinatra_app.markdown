@@ -7,7 +7,7 @@ date:   2016-07-13 05:07:14 -0400
 
 So the time has come to write a blog about my very own Sinatra web app. For the past few fortnights I have had a chance to get my hands dirty with SQL, ActiveRecord, Rack and Sinatra. I really started liking Sinatra mid way through my Learn curriculum. It is like a trained dog. It follows your orders & executes the web application the way you want it to execute. If there are any problems in the execution it is very easy to pinpoint towards a particular point using pry.
 
-## PC-Builder
+# PC-Builder
 
 Well I am an avid PC fan & decided to make a custom PC builder website using Sinatra. It is a very simple application which has the following functionalities.
 
@@ -20,7 +20,7 @@ Well I am an avid PC fan & decided to make a custom PC builder website using Sin
 6. A user can logout of the website.
 
 
-## pry-rails gem
+# pry-rails gem
 
 There were times when I wanted to pause my execution in an erb file but couldn't do it with the pry gem. But someone has already released a pry-rails gem which can be used inside an erb file. 
 
@@ -31,7 +31,7 @@ And you can use binding.pry inside your erb like this
 
 ![](http://i.imgur.com/1MXboOa.png)
 
-## Future
+# Future
 I have a few ideas which I can implement in future to make the website workable.
 
 1. Users can add price for individual parts.
